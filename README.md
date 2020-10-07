@@ -11,3 +11,5 @@ Note that currently the bot doesn't work at all, and it probably never will, and
 ## Planned Functionality that might happen but probably not
 * The ability to subscribe to Podcast feeds
 * Notification when a Podcast feed gets updated
+
+As this project is to help me learn Python, I am not accepting pull requests at this time.
